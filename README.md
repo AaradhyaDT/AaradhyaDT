@@ -108,6 +108,6 @@ Random Forest on simulated IMU data (tilt_x, tilt_y, ω). 99.8% test accuracy. F
 
 <div align="center">
 
-*Graduating Jan 2027 · Open to ML/AI engineering roles · India (Bangalore / Pune / Hyderabad)*
+*Graduating Jan 2027 · Open to ML/AI engineering roles · Nepal (Kathmandu)*
 
 </div>
