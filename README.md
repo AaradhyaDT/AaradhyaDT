@@ -94,20 +94,8 @@ Random Forest on simulated IMU data (tilt_x, tilt_y, ω). 99.8% test accuracy. F
 
 ---
 
-## Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaradhyaDT&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=d4a85a&icon_color=6dbfaa&text_color=e0e0e0&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaradhyaDT&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=d4a85a&text_color=e0e0e0)
-
-</div>
-
----
-
-<div align="center">
-
-*Graduating Jan 2027 · Open to ML/AI engineering roles · Nepal (Kathmandu)*
+*Graduating Jan 2027 · Open to ML/AI engineering roles*
 
 </div>
