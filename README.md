@@ -1,25 +1,35 @@
-<div align="center">
+<h1 align="center">
+  hey, i'm aaradhya 🛰️
+</h1>
 
-# Aaradhya Dev Tamrakar
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4A85A&center=true&vCenter=true&width=600&lines=Electronics%2C+Communication+%26+Info+Engg+%F0%9F%93%A1;Fuse+AI+Fellow+%40+Fusemachines+2026+%E2%9C%A8;IEEE+KEC+KTM+Vice+Chair+%F0%9F%8E%99%EF%B8%8F" alt="Typing SVG" />
+</p>
 
-**BEI IV/I · Kathmandu Engineering College, IOE, Tribhuvan University**
+<p align="center">
+  <img src="https://img.shields.io/badge/Kathmandu%20Engineering%20College-BEI%20IV%2FI-8A5CF6?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/AI%20Fellow-Fusemachines%20%2726-D4A85A?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/IEEE-Vice%20Chair-00629b?style=for-the-badge&labelColor=1a1a2e&logo=ieee" />
+</p>
 
-*Electronics, Communication & Information Engineering*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-aaradhyadtmr.github.io-d4a85a?style=flat-square&logo=github)](https://aaradhyadtmr.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/aaradhya-dev-tamrakar)
-[![Email](https://img.shields.io/badge/Email-aaradhyadevtmr@gmail.com-ea4335?style=flat-square&logo=gmail)](mailto:aaradhyadevtmr@gmail.com)
-[![IEEE](https://img.shields.io/badge/IEEE-Member-00629b?style=flat-square&logo=ieee)](https://ieee.org)
-
-</div>
+<p align="center">
+  <a href="https://aaradhyadtmr.github.io"><img src="https://img.shields.io/badge/Portfolio-aaradhyadtmr.github.io-d4a85a?style=flat-square&logo=github" /></a>
+  <a href="https://linkedin.com/in/aaradhya-dev-tamrakar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:aaradhyadevtmr@gmail.com"><img src="https://img.shields.io/badge/Email-aaradhyadevtmr@gmail.com-ea4335?style=flat-square&logo=gmail" /></a>
+</p>
 
 ---
 
-## About
+### 🛰️ about me
 
 I build systems that sit at the boundary of embedded hardware, machine learning, and production software — and I care about making them actually work, not just demo.
 
-Currently a **Fuse AI Fellow** (Fusemachines) and **IEEE KEC Vice Chair**, finishing my final year at KEC with a focus on Edge AI and ML pipelines. Graduating January 2027; targeting ML/AI engineering roles in India.
+- 🔭 Currently building **Counter-UAV Distributed TinyML** — RTL-SDR · ESP32 · TFLite · LoRa
+- 🌱 Bridging the gap between tidy notebooks and real deployed systems
+- 💌 **Fuse AI Fellow @ Fusemachines** (2026–Present)
+- 🎙️ Also **Vice Chair @ IEEE KEC KTM Student Branch**
+- 🧭 Targeting CNS/aeronautical engineering roles — CAAN Nepal / AAI India
+- 📫 reach me at **aaradhyadevtmr@gmail.com**
 
 ```
 ESP32 + TFLite  →  FastAPI  →  Android (Kotlin/Compose)  →  deployed
@@ -88,14 +98,12 @@ Random Forest on simulated IMU data (tilt_x, tilt_y, ω). 99.8% test accuracy. F
 ## Fellowships & Roles
 
 - **Fuse AI Fellow** — Fusemachines *(2026–Present)*
-- **Vice Chair** — IEEE KEC Student Branch *(2026–2027)*
+- **Vice Chair** — IEEE KEC KTM Student Branch *(2026–2027)*
 - **DataCamp Fellow, Cohort 2** — NSSR *(2026–Present)*
 - **Event Manager** — Electronics Project Club, KEC *(2026–Present)*
 
 ---
 
-<div align="center">
-
-*Graduating Jan 2027 · Open to ML/AI engineering roles*
-
-</div>
+<p align="center">
+  <i>graduating jan 2027 · open to CNS/aeronautical + ML/AI engineering roles</i>
+</p>
