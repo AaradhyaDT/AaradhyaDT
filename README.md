@@ -20,15 +20,15 @@
 
 ---
 
-### 🛰️ about me
+### About me
 
 I build systems that sit at the boundary of embedded hardware, machine learning, and production software — and I care about making them actually work, not just demo.
 
-- 🔭 Currently building **SPARK** — wearable fall detection, ESP32-S3 + TFLite Micro CNN + SHAP, Nepal-context IMU dataset
-- 🌱 Bridging the gap between tidy notebooks and real deployed systems
-- 💌 **Fuse AI Fellow @ Fusemachines** (2026–Present), Week 14/24
-- 🎙️ Also **Vice Chair @ IEEE KEC KTM Student Branch**
-- 📫 reach me at **aaradhyadevtmr@gmail.com**
+- Currently building **SPARK** — wearable fall detection, ESP32-S3 + TFLite Micro CNN + SHAP, Nepal-context IMU dataset
+- Bridging the gap between tidy notebooks and real deployed systems
+- **Fuse AI Fellow @ Fusemachines** (2026–Present), Week 14/24
+- Also **Vice Chair @ IEEE KEC KTM Student Branch**
+- reach me at **aaradhyadevtmr@gmail.com**
 
 ```
 ESP32 + TFLite  →  FastAPI  →  Android (Kotlin/Compose)  →  deployed
@@ -40,11 +40,11 @@ ESP32 + TFLite  →  FastAPI  →  Android (Kotlin/Compose)  →  deployed
 
 | Project | Stack | Status |
 |---|---|---|
-| **SPARK** *(Major Project)* — wearable fall detection | ESP32-S3 · TFLite Micro · SHAP · MQTT · Nepal IMU dataset | 🔵 WP1: Setup & Lit Review |
-| **BiasAperture** *(Fusemachines Capstone)* — vision fairness & bias audit | AIF360 · Fairlearn · SHAP · FairFace | 🔵 Submission-ready |
-| **Alpha Android Super-App** | Kotlin · Jetpack Compose · Material3 · DataStore | 🔵 In Progress |
-| **Nexus** — personal AI OS | React · FastAPI · SQLite+FTS5 | 🔵 MasterPlan v2 in progress |
-| **SysOptimizer v5** | Python · CustomTkinter · WMI · PyInstaller | 🔵 In Progress |
+| **SPARK** *(Major Project)* — wearable fall detection | ESP32-S3 · TFLite Micro · SHAP · MQTT · Nepal IMU dataset | WP1: Setup & Lit Review |
+| **BiasAperture** *(Fusemachines Capstone)* — vision fairness & bias audit | AIF360 · Fairlearn · SHAP · FairFace | Submission-ready |
+| **Alpha Android Super-App** | Kotlin · Jetpack Compose · Material3 · DataStore | In Progress |
+| **Nexus** — personal AI OS | React · FastAPI · SQLite+FTS5 | MasterPlan v2 in progress |
+| **SysOptimizer v5** | Python · CustomTkinter · WMI · PyInstaller | In Progress |
 
 ---
 
