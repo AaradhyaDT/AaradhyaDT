@@ -30,10 +30,6 @@ I build systems that sit at the boundary of embedded hardware, machine learning,
 - Also **Vice Chair @ IEEE KEC KTM Student Branch**
 - reach me at **aaradhyadevtmr@gmail.com**
 
-```
-ESP32 + TFLite  →  FastAPI  →  Android (Kotlin/Compose)  →  deployed
-```
-
 ---
 
 ## Active Work
