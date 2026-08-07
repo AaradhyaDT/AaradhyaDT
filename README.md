@@ -1,5 +1,5 @@
 <h1 align="center">
-  hey, i'm aaradhya 🛰️
+  Hi there! I'm Aaradhya
 </h1>
 
 <p align="center">
@@ -28,7 +28,6 @@ I build systems that sit at the boundary of embedded hardware, machine learning,
 - 🌱 Bridging the gap between tidy notebooks and real deployed systems
 - 💌 **Fuse AI Fellow @ Fusemachines** (2026–Present), Week 14/24
 - 🎙️ Also **Vice Chair @ IEEE KEC KTM Student Branch**
-- 🧭 Targeting CNS/aeronautical engineering roles — CAAN Nepal / AAI India
 - 📫 reach me at **aaradhyadevtmr@gmail.com**
 
 ```
@@ -107,5 +106,5 @@ Random Forest on simulated IMU data (tilt_x, tilt_y, ω). 99.8% test accuracy. F
 ---
 
 <p align="center">
-  <i>graduating jan 2027 · open to CNS/aeronautical + ML/AI engineering roles</i>
+  <i>graduating jan 2027 · open to ML/AI engineering roles</i>
 </p>
