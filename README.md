@@ -36,11 +36,11 @@ I build systems that sit at the boundary of embedded hardware, machine learning,
 
 | Project | Stack | Status |
 |---|---|---|
-| **SPARK** *(Major Project)* — wearable fall detection | ESP32-S3 · TFLite Micro · SHAP · MQTT · Nepal IMU dataset | WP1: Setup & Lit Review |
-| **BiasAperture** *(Fusemachines Capstone)* — vision fairness & bias audit | AIF360 · Fairlearn · SHAP · FairFace | Submission-ready |
-| **Alpha Android Super-App** | Kotlin · Jetpack Compose · Material3 · DataStore | In Progress |
-| **Nexus** — personal AI OS | React · FastAPI · SQLite+FTS5 | MasterPlan v2 in progress |
-| **SysOptimizer v5** | Python · CustomTkinter · WMI · PyInstaller | In Progress |
+| **[SPARK](https://github.com/AaradhyaDT/SPARK)** *(Major Project)* — wearable fall detection | ESP32-S3 · TFLite Micro · SHAP · MQTT · Nepal IMU dataset | WP1: Setup & Lit Review |
+| **[BiasAperture](https://github.com/AaradhyaDT/BiasAperture)** *(Fusemachines Capstone)* — vision fairness & bias audit | AIF360 · Fairlearn · SHAP · FairFace | Submission-ready |
+| **[Alpha Android Super-App](https://github.com/AaradhyaDT/Alpha-SuperApp)** | Kotlin · Jetpack Compose · Material3 · DataStore | In Progress |
+| **[Nexus](https://github.com/AaradhyaDT/Nexus)** — personal AI OS | React · FastAPI · SQLite+FTS5 | MasterPlan v2 in progress |
+| **[SysOptimizer v5](https://github.com/AaradhyaDT/SysOptimizer)** | Python · CustomTkinter · WMI · PyInstaller | In Progress |
 
 ---
 
