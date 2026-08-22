@@ -3,13 +3,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=21&duration=2600&pause=700&color=D4A85A&background=0F0E0C00&center=true&vCenter=true&width=900&lines=Electronics%2C+Communication+%26+Information+Engineer;AI%2FML+%C2%B7+Embedded+Systems+%C2%B7+Edge+AI;Fuse+AI+Fellow+2026;IEEE+KEC+KTM+%C2%B7+Vice+Chair;Building+intelligent+systems+that+actually+ship" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=21&duration=2600&pause=700&color=D4A85A&background=0F0E0C00&center=true&vCenter=true&width=900&lines=Electronics%2C+Communication+%26+Information+Engineer;AI%2FML+%C2%B7+Embedded+Systems+%C2%B7+Edge+AI;Fuse+AI+Fellow+2026;IEEE+KEC+KTM+%C2%B7+Vice+Chair;Building+intelligent+systems+that+actually+ship"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
   <a href="https://aaradhya-dev-tamrakar.github.io">
     <img
-      src="https://raw.githubusercontent.com/Aaradhya-Dev-Tamrakar/Aaradhya-Dev-Tamrakar.github.io/main/assets/favicon.svg"
+      src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/favicon.svg"
       width="28"
       height="28"
       alt="ADT Portfolio"
@@ -19,7 +22,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aaradhya-dev-tamrakar">
     <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/linkedin.svg"
       width="28"
       height="28"
       alt="LinkedIn"
@@ -29,7 +32,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aaradhyadevtmr@gmail.com">
     <img
-      src="https://cdn.simpleicons.org/gmail/EA4335"
+      src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/email.svg"
       width="28"
       height="28"
       alt="Email"
