@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=25&duration=2000&pause=500&color=D3A859&background=5AD8451D&center=true&vCenter=true&random=true&width=435&lines=Electronics+Communication+and+Information+Engineering;FuseAI+Fellow+2026;IEEE+KEC+KTM+%7C+Vice-Chair" alt="Typing SVG" /></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=25&duration=2000&pause=500&color=D3A859&background=5AD8451D&center=true&vCenter=true&random=true&width=900&lines=Electronics+Communication+and+Information+Engineering;FuseAI+Fellow+2026;IEEE+KEC+KTM+%7C+Vice-Chair" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kathmandu%20Engineering%20College-BEI%20IV%2FI-8A5CF6?style=for-the-badge&labelColor=1a1a2e" />
