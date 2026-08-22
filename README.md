@@ -11,31 +11,18 @@
 
 <p align="center">
   <a href="https://aaradhya-dev-tamrakar.github.io">
-    <img
-      src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/favicon.svg"
-      width="28"
-      height="28"
-      alt="ADT Portfolio"
-    />
+    <img src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/favicon.svg"
+         width="30" height="30" alt="Portfolio" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aaradhya-dev-tamrakar">
-    <img
-      src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/linkedin.svg"
-      width="28"
-      height="28"
-      alt="LinkedIn"
-    />
+    <img src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/linkedin.svg"
+         width="30" height="30" alt="LinkedIn" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="mailto:aaradhyadevtmr@gmail.com">
-    <img
-      src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/email.svg"
-      width="28"
-      height="28"
-      alt="Email"
-    />
-
+    <img src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/email.svg"
+         width="30" height="30" alt="Email" />
   </a>
 </p>
 
