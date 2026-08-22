@@ -10,20 +10,42 @@
 </p>
 
 <p align="center">
-  <a href="https://aaradhya-dev-tamrakar.github.io">
-    <img src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/favicon.svg"
-         width="30" height="30" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aaradhya-dev-tamrakar">
-    <img src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/linkedin.svg"
-         width="30" height="30" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:aaradhyadevtmr@gmail.com">
-    <img src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/email.svg"
-         width="30" height="30" alt="Email" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://aaradhya-dev-tamrakar.github.io">
+          <img
+            src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/favicon.svg"
+            width="30"
+            height="30"
+            alt="Portfolio"
+          />
+        </a>
+      </td>
+
+      <td align="center" width="33%">
+        <a href="https://www.linkedin.com/in/aaradhya-dev-tamrakar">
+          <img
+            src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/linkedin.svg"
+            width="30"
+            height="30"
+            alt="LinkedIn"
+          />
+        </a>
+      </td>
+
+      <td align="center" width="33%">
+        <a href="mailto:aaradhyadevtmr@gmail.com">
+          <img
+            src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/email.svg"
+            width="30"
+            height="30"
+            alt="Email"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
