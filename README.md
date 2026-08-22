@@ -17,7 +17,6 @@
       height="28"
       alt="ADT Portfolio"
     />
-    &nbsp;
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aaradhya-dev-tamrakar">
@@ -27,7 +26,6 @@
       height="28"
       alt="LinkedIn"
     />
-    &nbsp;
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aaradhyadevtmr@gmail.com">
