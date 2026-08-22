@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <table>
+  <table align="center" style="margin: 0 auto; text-align: center;">
     <tr>
       <td align="center" width="33%">
         <a href="https://aaradhya-dev-tamrakar.github.io">
