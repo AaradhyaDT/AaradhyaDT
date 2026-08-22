@@ -22,7 +22,6 @@
           />
         </a>
       </td>
-
       <td align="center" width="33%">
         <a href="https://www.linkedin.com/in/aaradhya-dev-tamrakar">
           <img
@@ -33,7 +32,6 @@
           />
         </a>
       </td>
-
       <td align="center" width="33%">
         <a href="mailto:aaradhyadevtmr@gmail.com">
           <img
