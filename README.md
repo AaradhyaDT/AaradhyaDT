@@ -9,29 +9,32 @@
 <p align="center">
   <a href="https://aaradhya-dev-tamrakar.github.io">
     <img
-      src="https://aaradhya-dev-tamrakar.github.io/assets/images/og-image.jpg"
+      src="https://raw.githubusercontent.com/Aaradhya-Dev-Tamrakar/Aaradhya-Dev-Tamrakar.github.io/main/assets/favicon.svg"
       width="28"
-      alt="ADT"
+      height="28"
+      alt="ADT Portfolio"
     />
-    <strong> Portfolio</strong>
+    &nbsp;<strong>Portfolio</strong>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aaradhya-dev-tamrakar">
     <img
       src="https://cdn.simpleicons.org/linkedin/0A66C2"
       width="28"
+      height="28"
       alt="LinkedIn"
     />
-    <strong> LinkedIn</strong>
+    &nbsp;<strong>LinkedIn</strong>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aaradhyadevtmr@gmail.com">
     <img
       src="https://cdn.simpleicons.org/gmail/EA4335"
       width="28"
+      height="28"
       alt="Email"
     />
-    <strong> Email</strong>
+    &nbsp;<strong>Email</strong>
   </a>
 </p>
 
@@ -54,50 +57,50 @@ Currently exploring **AI/ML, Edge AI, embedded systems, robotics, and intelligen
 
 ## Active Work
 
-| Project                                                             | Focus                        | Stack                                       | Status               |
+| Project | Focus | Stack | Status |
 | ------------------------------------------------------------------- | ---------------------------- | ------------------------------------------- | -------------------- |
-| **[SPARK](https://github.com/AaradhyaDT/SPARK)**                    | Wearable fall detection      | ESP32-S3 · TFLite Micro · SHAP · MQTT · IMU | **Building**         |
-| **[BiasAperture](https://github.com/AaradhyaDT/BiasAperture)**      | Vision fairness & bias audit | AIF360 · Fairlearn · SHAP · FairFace        | **Submission-ready** |
-| **[Alpha Super-App](https://github.com/AaradhyaDT/Alpha-SuperApp)** | Android super-app            | Kotlin · Compose · Material3 · DataStore    | **In Progress**      |
-| **[Nexus](https://github.com/AaradhyaDT/Nexus)**                    | Personal AI OS               | React · FastAPI · SQLite · FTS5             | **In Progress**      |
-| **[SysOptimizer](https://github.com/AaradhyaDT/SysOptimizer)**      | Windows optimization         | Python · CustomTkinter · WMI · PyInstaller  | **In Progress**      |
+| **[SPARK](https://github.com/AaradhyaDT/SPARK)** | Wearable fall detection | ESP32-S3 · TFLite Micro · SHAP · MQTT · IMU | **Building** |
+| **[BiasAperture](https://github.com/AaradhyaDT/BiasAperture)** | Vision fairness & bias audit | AIF360 · Fairlearn · SHAP · FairFace | **Submission-ready** |
+| **[Alpha Super-App](https://github.com/AaradhyaDT/Alpha-SuperApp)** | Android super-app | Kotlin · Compose · Material3 · DataStore | **In Progress** |
+| **[Nexus](https://github.com/AaradhyaDT/Nexus)** | Personal AI OS | React · FastAPI · SQLite · FTS5 | **In Progress** |
+| **[SysOptimizer](https://github.com/AaradhyaDT/SysOptimizer)** | Windows optimization | Python · CustomTkinter · WMI · PyInstaller | **In Progress** |
 
 ---
 
 ## Selected Work
 
-| Project                                                                                                              | What it demonstrates                                                              |
+| Project | What it demonstrates |
 | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| **[Gesture-Controlled Self-Balancing Robot](https://github.com/AaradhyaDT/Gesture-Controlled-Self-Balancing-Robot)** | PID balancing · MPU6050 · MediaPipe · DRV8825 · MATLAB → real hardware            |
-| **[Text-to-SQL Agentic Pipeline](https://github.com/AaradhyaDT/fuseAiF_wk3_text2sql)**                               | Planner → Generator → Validator → Executor → Summarizer · **100% / 50 questions** |
-| **[Telco Churn Ensemble](https://github.com/AaradhyaDT/fuseAiF_wk5_telco_churn_ensembles)**                          | Random Forest · XGBoost · SMOTE · Bayesian HPO · SHAP                             |
-| **[Telco Churn & CLV](https://github.com/AaradhyaDT/FUSE_AIF_2026_M1)**                                              | Classification + CLV regression · threshold optimization · automated reporting    |
-| **[Edge AI Stability](https://github.com/AaradhyaDT/stability-ai-system)**                                           | IMU-based classification · Random Forest · FastAPI · **99.8% test accuracy**      |
+| **[Gesture-Controlled Self-Balancing Robot](https://github.com/AaradhyaDT/Gesture-Controlled-Self-Balancing-Robot)** | PID balancing · MPU6050 · MediaPipe · DRV8825 · MATLAB → real hardware |
+| **[Text-to-SQL Agentic Pipeline](https://github.com/AaradhyaDT/fuseAiF_wk3_text2sql)** | Planner → Generator → Validator → Executor → Summarizer · **100% / 50 questions** |
+| **[Telco Churn Ensemble](https://github.com/AaradhyaDT/fuseAiF_wk5_telco_churn_ensembles)** | Random Forest · XGBoost · SMOTE · Bayesian HPO · SHAP |
+| **[Telco Churn & CLV](https://github.com/AaradhyaDT/FUSE_AIF_2026_M1)** | Classification + CLV regression · threshold optimization · automated reporting |
+| **[Edge AI Stability](https://github.com/AaradhyaDT/stability-ai-system)** | IMU-based classification · Random Forest · FastAPI · **99.8% test accuracy** |
 
 ---
 
 ## Stack
 
-| Area                 | Technologies                                                                                   |
-| -------------------- | ---------------------------------------------------------------------------------------------- |
-| **Languages**        | Python · C/C++ · Kotlin · SQL · VHDL · JavaScript                                              |
-| **AI / ML**          | scikit-learn · XGBoost · SHAP · TFLite · SMOTE · GridSearchCV · Bayesian Optimization · Joblib |
-| **Embedded / Edge**  | ESP32-S3 · Arduino · MPU6050 · UART · FPGA · Vivado · DRV8825 · CNC Shield                     |
-| **Android**          | Jetpack Compose · Material3 · CameraX · MediaPipe · DataStore · Apache POI                     |
-| **Backend / Deploy** | FastAPI · Docker · PostgreSQL · Streamlit · Papermill · Asyncio                                |
-| **Tools**            | Git · GitHub · MATLAB · Jupyter · VS Code · LaTeX · Overleaf                                   |
+| Area | Technologies |
+| -------------------- | ----------------------------------------------------------------------------------------------- |
+| **Languages** | Python · C/C++ · Kotlin · SQL · VHDL · JavaScript |
+| **AI / ML** | scikit-learn · XGBoost · SHAP · TFLite · SMOTE · GridSearchCV · Bayesian Optimization · Joblib |
+| **Embedded / Edge** | ESP32-S3 · Arduino · MPU6050 · UART · FPGA · Vivado · DRV8825 · CNC Shield |
+| **Android** | Jetpack Compose · Material3 · CameraX · MediaPipe · DataStore · Apache POI |
+| **Backend / Deploy** | FastAPI · Docker · PostgreSQL · Streamlit · Papermill · Asyncio |
+| **Tools** | Git · GitHub · MATLAB · Jupyter · VS Code · LaTeX · Overleaf |
 
 ---
 
 ## Roles & Fellowships
 
-| Role                           | Organization                  | Period       |
-| ------------------------------ | ----------------------------- | ------------ |
-| **Fuse AI Fellow**             | Fusemachines                  | 2026–Present |
-| **Vice Chair**                 | IEEE KEC KTM Student Branch   | 2026–2027    |
-| **DataCamp Fellow · Cohort 2** | NSSR                          | 2026–Present |
-| **Event Manager**              | Electronics Project Club, KEC | 2026–Present |
-| **Makerspace Ambassador**      | Kathmandu Engineering College | 2026–Present |
+| Role | Organization | Period |
+| --------------------------- | ------------------------------ | ------------ |
+| **Fuse AI Fellow** | Fusemachines | 2026–Present |
+| **Vice Chair** | IEEE KEC KTM Student Branch | 2026–2027 |
+| **DataCamp Fellow · Cohort 2** | NSSR | 2026–Present |
+| **Event Manager** | Electronics Project Club, KEC | 2026–Present |
+| **Makerspace Ambassador** | Kathmandu Engineering College | 2026–Present |
 
 ---
 
