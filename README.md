@@ -18,7 +18,7 @@
       alt="ADT Portfolio"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/aaradhya-dev-tamrakar">
     <img
       src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/linkedin.svg"
@@ -27,7 +27,7 @@
       alt="LinkedIn"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:aaradhyadevtmr@gmail.com">
     <img
       src="https://raw.githubusercontent.com/AaradhyaDT/AaradhyaDT/main/assets/email.svg"
@@ -35,7 +35,7 @@
       height="28"
       alt="Email"
     />
-    &nbsp;
+
   </a>
 </p>
 
