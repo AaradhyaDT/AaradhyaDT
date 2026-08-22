@@ -8,13 +8,31 @@
 
 <p align="center">
   <a href="https://aaradhya-dev-tamrakar.github.io">
-    <img src="https://img.shields.io/badge/PORTFOLIO-d4a85a?style=for-the-badge&labelColor=0f0e0c&logoColor=eeeae2" />
+    <img
+      src="https://aaradhya-dev-tamrakar.github.io/assets/images/og-image.jpg"
+      alt="Aaradhya Dev Tamrakar Portfolio"
+      width="420"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aaradhya-dev-tamrakar">
+    <img
+      src="https://aaradhya-dev-tamrakar.github.io/assets/images/photo.png"
+      alt="Aaradhya Dev Tamrakar on LinkedIn"
+      width="180"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://aaradhya-dev-tamrakar.github.io">
+    <img src="https://img.shields.io/badge/PORTFOLIO-d4a85a?style=for-the-badge&labelColor=0f0e0c" />
   </a>
   <a href="https://www.linkedin.com/in/aaradhya-dev-tamrakar">
-    <img src="https://img.shields.io/badge/LINKEDIN-6dbfaa?style=for-the-badge&labelColor=0f0e0c&logoColor=eeeae2" />
+    <img src="https://img.shields.io/badge/LINKEDIN-6dbfaa?style=for-the-badge&labelColor=0f0e0c" />
   </a>
   <a href="mailto:aaradhyadevtmr@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-d4a85a?style=for-the-badge&labelColor=0f0e0c&logo=gmail&logoColor=eeeae2" />
+    <img src="https://img.shields.io/badge/EMAIL-d4a85a?style=for-the-badge&labelColor=0f0e0c" />
   </a>
 </p>
 
