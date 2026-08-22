@@ -9,30 +9,32 @@
 <p align="center">
   <a href="https://aaradhya-dev-tamrakar.github.io">
     <img
-      src="https://aaradhya-dev-tamrakar.github.io/assets/images/og-image.jpg"
-      alt="Aaradhya Dev Tamrakar Portfolio"
-      width="420"
+      src="https://www.google.com/s2/favicons?sz=64&domain_url=https%3A%2F%2Faaradhya-dev-tamrakar.github.io"
+      width="28"
+      height="28"
+      alt="ADT Portfolio"
     />
+    &nbsp;<strong>Portfolio</strong>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aaradhya-dev-tamrakar">
     <img
-      src="https://aaradhya-dev-tamrakar.github.io/assets/images/photo.png"
-      alt="Aaradhya Dev Tamrakar on LinkedIn"
-      width="180"
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      width="28"
+      height="28"
+      alt="LinkedIn"
     />
+    &nbsp;<strong>LinkedIn</strong>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://aaradhya-dev-tamrakar.github.io">
-    <img src="https://img.shields.io/badge/PORTFOLIO-d4a85a?style=for-the-badge&labelColor=0f0e0c" />
-  </a>
-  <a href="https://www.linkedin.com/in/aaradhya-dev-tamrakar">
-    <img src="https://img.shields.io/badge/LINKEDIN-6dbfaa?style=for-the-badge&labelColor=0f0e0c" />
-  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aaradhyadevtmr@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-d4a85a?style=for-the-badge&labelColor=0f0e0c" />
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      width="28"
+      height="28"
+      alt="Email"
+    />
+    &nbsp;<strong>Email</strong>
   </a>
 </p>
 
