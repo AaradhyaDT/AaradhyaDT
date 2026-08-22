@@ -9,32 +9,29 @@
 <p align="center">
   <a href="https://aaradhya-dev-tamrakar.github.io">
     <img
-      src="https://www.google.com/s2/favicons?sz=64&domain_url=https%3A%2F%2Faaradhya-dev-tamrakar.github.io"
+      src="https://aaradhya-dev-tamrakar.github.io/assets/images/og-image.jpg"
       width="28"
-      height="28"
-      alt="ADT Portfolio"
+      alt="ADT"
     />
-    &nbsp;<strong>Portfolio</strong>
+    <strong> Portfolio</strong>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aaradhya-dev-tamrakar">
     <img
       src="https://cdn.simpleicons.org/linkedin/0A66C2"
       width="28"
-      height="28"
       alt="LinkedIn"
     />
-    &nbsp;<strong>LinkedIn</strong>
+    <strong> LinkedIn</strong>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:aaradhyadevtmr@gmail.com">
     <img
       src="https://cdn.simpleicons.org/gmail/EA4335"
       width="28"
-      height="28"
       alt="Email"
     />
-    &nbsp;<strong>Email</strong>
+    <strong> Email</strong>
   </a>
 </p>
 
