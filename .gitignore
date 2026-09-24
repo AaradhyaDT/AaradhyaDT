@@ -1,0 +1,15 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor & IDE artifacts
+.vscode/
+.idea/
+*.swp
+*.bak
+*~
+
+# Temporary & Log files
+*.log
+*.tmp
