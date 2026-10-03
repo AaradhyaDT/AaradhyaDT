@@ -70,7 +70,7 @@ Undergraduate Electronics, Communication & Information Engineer (BEI) at **Kathm
 | **[SPARK](https://github.com/AaradhyaDT/SPARK)** | Wearable fall detection & Edge AI | ESP32-S3 · FreeRTOS · INT8 CNN · TFLite Micro · IMU | **E4 Verified** |
 | **[BiasAperture](https://github.com/AaradhyaDT/BiasAperture)** | Vision fairness & demographic bias audit | AIF360 · Fairlearn · SHAP · FairFace · BCa Bootstrap | **E4 Verified** |
 | **[super-nlm](https://github.com/Aaradhya-Dev-Tamrakar/super-nlm)** | Multi-account NotebookLM research hub | FastMCP · Python · Playwright · SQLite · SSE | **Active Engine** |
-| **[SysOptimizer](https://github.com/AaradhyaDT/SysOptimizer)** | Win32 NT kernel memory optimization | Python · C# · Win32 API · `EmptyWorkingSet` · WMI | **Active Tool** |
+| **[NovaOptimizer](https://github.com/Aaradhya-Dev-Tamrakar/system-optimizer)** | Win32 NT kernel memory optimization | C# (.NET 8/10) · WPF · Win32 NT APIs · `EmptyWorkingSet` | **Active Tool** |
 | **[FastMCP Suite](https://github.com/AaradhyaDT)** | CAD/BIM & ecosystem MCP servers | FastMCP · Python · Fusion360 · AutoCAD · Revit · ETABS | **Shipped** |
 | **[Alpha Super-App](https://github.com/AaradhyaDT/Alpha-SuperApp)** | Modern modular Android super-app | Kotlin · Jetpack Compose · Material 3 · DataStore | **In Progress** |
 
