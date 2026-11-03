@@ -114,6 +114,17 @@ Undergraduate Electronics, Communication & Information Engineer (BEI) at **Kathm
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AaradhyaDT&theme=radical" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AaradhyaDT&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-d4a85a?style=flat-square&labelColor=161513" />
   <img src="https://img.shields.io/badge/EDGE%20AI-6dbfaa?style=flat-square&labelColor=161513" />
