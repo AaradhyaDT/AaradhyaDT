@@ -136,7 +136,7 @@ I build model-evaluation pipelines, AI workflow tools, and embedded ML software.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AaradhyaDT&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats-xi.vercel.app/?user=AaradhyaDT&theme=radical" alt="GitHub Streak Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=AaradhyaDT&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_rank=true" alt="GitHub Stats" />
